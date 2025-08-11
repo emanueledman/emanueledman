@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="35" height="35" /> Hello! I'm Emanuel Edman
+# Emanuel Edman
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineer+%7C+Luanda%2C+Angola+%F0%9F%87%A6%F0%9F%87%B4;Computer+Engineering+Student;Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" />
@@ -105,7 +105,7 @@ const emanuel: ProfessionalProfile = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=emanueledman&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FFC649&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=FFFFFF&card_width=500" alt="GitHub Streak" />
 </div>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -163,7 +163,7 @@ class ProfessionalDevelopment:
 
 </div>
 
-## 🌐 Professional Network
+## Professional Network
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Other         20 mins         █░░░░░░░░░░░░░░░�
 
 </div>
 
-## 🎯 Contribution Overview
+## Contribution Overview
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueledman&theme=github_dark" width="100%"/>
@@ -209,7 +209,7 @@ Other         20 mins         █░░░░░░░░░░░░░░░�
 </table>
 </div>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -223,7 +223,7 @@ Other         20 mins         █░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-### 📈 Profile Statistics
+### Profile Statistics
   
 <img src="https://profile-counter.glitch.me/emanueledman/count.svg" />
 
@@ -238,5 +238,5 @@ Other         20 mins         █░░░░░░░░░░░░░░░�
 </div>
 
 <div align="center">
-  <b>🚀 Let's build something amazing together!</b>
+  <b> Let's build something amazing together!</b>
 </div>
