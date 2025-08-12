@@ -15,7 +15,7 @@
   
 </div>
 
-## 🎯 Professional Overview
+## Overview
 
 <img align="right" alt="Development" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
