@@ -1,242 +1,137 @@
-# Emanuel Edman
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineer+%7C+Luanda%2C+Angola+%F0%9F%87%A6%F0%9F%87%B4;Computer+Engineering+Student;Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=40&fontAlignY=35&desc=Crafting%20Digital%20Solutions&descAlign=62&descAlignY=55&animation=fadeIn" />
-
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=emanueledman&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/emanueledman)
-  [![GitHub followers](https://img.shields.io/github/followers/emanueledman?style=flat-square&color=0e75b6&label=Followers)](https://github.com/emanueledman?tab=followers)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanueledman)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emanueledman@student.42luanda.com)
-  
-</div>
-
-## Overview
-
-<img align="right" alt="Development" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-```typescript
-interface ProfessionalProfile {
-  name: string;
-  location: string;
-  title: string;
-  education: string;
-  expertise: string[];
-  currentFocus: string[];
-  experience: string;
-}
-
-const emanuel: ProfessionalProfile = {
-  name: "Emanuel Edman",
-  location: "Luanda, Angola 🇦🇴",
-  title: "Software Engineer & Full Stack Developer",
-  education: "Computer Engineering Student",
-  expertise: [
-    "System Programming (C/C++)",
-    "Object-Oriented Programming (Java)",
-    "Web Development (JavaScript, TypeScript)",
-    "Database Design & Management",
-    "Software Architecture"
-  ],
-  currentFocus: [
-    "Advanced Algorithms & Data Structures",
-    "Cloud Computing & DevOps",
-    "Machine Learning Applications"
-  ],
-  experience: "Building scalable solutions since 2023"
-};
-```
-
-<br clear="both"/>
-
-## 🛠️ Technical Expertise
-
 <div align="center">
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- Cabeçalho animado com gradient moderno -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:4169E1,100:00BFFF&height=190&section=header&text=Emanuel%20João&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### **Frameworks & Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- Texto dinâmico -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+Perfil+Profissional!;Estudante+de+Engenharia+Informática;Cadet+na+42+Luanda;Desenvolvedor+C/C%2B%2B+|+Java+|+Python)](https://git.io/typing-svg)
 
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanueledman&color=00bfff&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil">
+  <img src="https://img.shields.io/badge/Última%20Atualização-30%20Ago%202025-00bfff?style=flat-square" alt="Última Atualização">
+</p>
 
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emanueledman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&custom_title=GitHub%20Statistics"/>
-</td>
-<td>
-<img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emanueledman&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Most%20Used%20Languages"/>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanueledman&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emanueledman&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FFC649&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=FFFFFF&card_width=500" alt="GitHub Streak" />
-</div>
-
-## Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<div align="center">
-<a href="https://github.com/emanueledman/libft">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=emanueledman&repo=libft&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-</div>
-</td>
-<td width="50%">
-<div align="center">
-<a href="https://github.com/emanueledman/ft_printf">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=emanueledman&repo=ft_printf&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-## 💼 Current Focus & Goals
-
-<div align="center">
-
-```python
-class ProfessionalDevelopment:
-    def __init__(self):
-        self.current_learning = [
-            "Advanced System Architecture",
-            "Cloud Computing (AWS/Azure)",
-            "DevOps & CI/CD Pipelines",
-            "Machine Learning & AI",
-            "Microservices Architecture"
-        ]
-        
-        self.professional_goals = [
-            "Contributing to Open Source Projects",
-            "Building Scalable Enterprise Solutions",
-            "Mentoring Junior Developers",
-            "Pursuing Software Engineering Excellence"
-        ]
-        
-        self.values = [
-            "Clean Code & Best Practices",
-            "Continuous Learning & Growth",
-            "Collaborative Team Environment",
-            "Innovation & Problem Solving"
-        ]
-    
-    def get_mission(self):
-        return "Transforming ideas into efficient, scalable software solutions"
-```
-
-</div>
-
-## Professional Network
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanueledman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emanueledman.github.io)
-[![Email](https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanueledman@student.42luanda.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanueledman)
-
-</div>
-
-## ⚡ Development Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-C/C++         15 hrs 30 mins  ████████████████░░░░░░░░░   45.2%
-Java          12 hrs 15 mins  ████████████░░░░░░░░░░░░░   35.8%
-Python         4 hrs 45 mins  ███████░░░░░░░░░░░░░░░░░░   13.9%
-JavaScript     1 hr 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    4.4%
-Other         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    0.7%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-## Contribution Overview
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueledman&theme=github_dark" width="100%"/>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emanueledman&theme=github_dark" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emanueledman&theme=github_dark&utcOffset=1" />
-</td>
-</tr>
-</table>
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
 
+<img align="right" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueledman&layout=compact&theme=algolia&hide_border=true" />
+
+### 👨‍💻 Sobre Mim
+
+```python
+class PerfilProfissional:
+    def __init__(self):
+        self.nome = "Emanuel João"
+        self.localização = "Luanda, Angola"
+        self.formação = {
+            "curso": "Engenharia Informática",
+            "ano": "4º ano",
+            "especialização": "42 Luanda"
+        }
+        self.áreas_interesse = [
+            "Desenvolvimento de Software",
+            "Cibersegurança",
+            "Sistemas Linux",
+            "Programação de Baixo Nível"
+        ]
+        
+    def competências_técnicas(self):
+        return {
+            "linguagens": {
+                "avançado": ["C", "C++"],
+                "intermediário": ["Java", "Python"],
+                "shell": ["Bash", "Shell Script"]
+            },
+            "banco_dados": ["SQL Server"],
+            "sistemas": ["Linux", "Unix"],
+            "segurança": ["Análise de Vulnerabilidades",
+                         "Segurança de Sistemas",
+                         "Práticas Seguras de Código"]
+        }
+```
+
+---
+
+### 🎯 Foco Atual
+
+- 📚 Cursando 4º ano de Engenharia Informática
+- 💻 Aprofundando conhecimentos em C/C++ na 42 Luanda
+- 🔒 Estudando Cibersegurança e Práticas Seguras
+- 🐧 Especialização em Ambiente Linux e Shell Script
+- 🎓 Desenvolvimento de Projetos Práticos
+
+### 🛠️ Stack Tecnológica Principal
+
+<div style="display: inline_block" align="center">
+
+<!-- Linguagens Core -->
+<img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+</div>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=emanueledman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanueledman&theme=algolia&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🐍 Contribuições
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emanueledman/emanueledman/output/github-contribution-grid-snake.svg" />
+</div>
+
+### 📈 Gráfico de Atividades
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emanueledman&bg_color=0d1117&color=00bfff&line=483D8B&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🏆 Principais Projetos na 42
+
 <div align="center">
   
-### Profile Statistics
+[![42 Badge](https://img.shields.io/badge/42-Luanda-00599C?style=for-the-badge&logo=42&logoColor=white)](https://www.42luanda.com)
+
+| Projeto | Tecnologia | Status |
+|---------|------------|--------|
+| libft | C | ✅ |
+| get_next_line | C | ✅ |
+| ft_printf | C | ✅ |
+| Born2beroot | Shell, Virtual Machine | ✅ |
+| so_long | C, Computer Graphics | 🔄 |
+| pipex | C, Processes | 🔄 |
+
+</div>
+
+### 📱 Conecte-se Comigo
+
+<div align="center">
   
-<img src="https://profile-counter.glitch.me/emanueledman/count.svg" />
+[![E-mail](https://img.shields.io/badge/Gmail-emanuelhedima@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelhedima@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-emanueledman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanueledman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_João-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-joão-1a9687283/)
 
 </div>
 
 <div align="center">
-  
-  **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler**
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
-  
+  <br>
+  <img src="https://profile-counter.glitch.me/{emanueledman}/count.svg" alt="Contador de Visitantes" />
+  <p><i>Última atualização: 2025-08-30 11:25:23 UTC</i></p>
 </div>
 
-<div align="center">
-  <b> Let's build something amazing together!</b>
-</div>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:4169E1,100:00BFFF&height=120&section=footer"/>
