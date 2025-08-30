@@ -1,14 +1,16 @@
 <div align="center">
-
-<!-- Cabeçalho animado com gradient moderno -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:4169E1,100:00BFFF&height=190&section=header&text=Emanuel%20João&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  
+<!-- Header com imagem de fundo de programação/hacker -->
+<div style="background-image: url('https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif'); background-size: cover; padding: 20px;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:4169E1,100:00BFFF&height=190&section=header&text=Emanuel%20João&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
 
 <!-- Texto dinâmico -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+Perfil+Profissional!;Estudante+de+Engenharia+Informática;Cadet+na+42+Luanda;Desenvolvedor+C/C%2B%2B+|+Java+|+Python)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emanueledman&color=00bfff&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil">
-  <img src="https://img.shields.io/badge/Última%20Atualização-30%20Ago%202025-00bfff?style=flat-square" alt="Última Atualização">
+  <img src="https://img.shields.io/badge/Última%20Atualização-2025--08--30%2012:22:25%20UTC-00bfff?style=flat-square" alt="Última Atualização">
 </p>
 
 </div>
@@ -92,8 +94,13 @@ class PerfilProfissional:
 </div>
 
 ### 🐍 Contribuições
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/emanueledman/emanueledman/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueledman/emanueledman/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanueledman/emanueledman/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emanueledman/emanueledman/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ### 📈 Gráfico de Atividades
@@ -123,15 +130,18 @@ class PerfilProfissional:
   
 [![E-mail](https://img.shields.io/badge/Gmail-emanuelhedima@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelhedima@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-emanueledman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanueledman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_João-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-joão-1a9687283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_João-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 
 </div>
 
+<!-- Contador de Visitas -->
 <div align="center">
   <br>
   <img src="https://profile-counter.glitch.me/{emanueledman}/count.svg" alt="Contador de Visitantes" />
-  <p><i>Última atualização: 2025-08-30 11:25:23 UTC</i></p>
+  <p><i>Última atualização: 2025-08-30 12:22:25 UTC</i></p>
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:4169E1,100:00BFFF&height=120&section=footer"/>
+<!-- Footer Wave com background -->
+<div style="background-image: url('https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif'); background-size: cover; padding: 20px;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:4169E1,100:00BFFF&height=120&section=footer"/>
+</div>
