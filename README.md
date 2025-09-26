@@ -138,9 +138,10 @@ class PerfilProfissional:
 <!-- Contador de Visitas -->
 <div align="center">
   <br>
-  <img src="https://profile-counter.glitch.me/{emanueledman}/count.svg" alt="Contador de Visitantes" />
+  <img src="https://profile-counter.glitch.me/emanueledman/count.svg" alt="Contador de Visitantes" />
   <p><i>Última atualização: 2025-08-30 12:22:25 UTC</i></p>
 </div>
+
 
 <!-- Footer Wave com background -->
 <div style="background-image: url('https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif'); background-size: cover; padding: 20px;">
