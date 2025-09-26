@@ -121,7 +121,7 @@ class PerfilProfissional:
 | Born2beroot | Shell, Virtual Machine | ✅ |
 | so_long | C, Computer Graphics | 🔄 |
 | pipex | C, Processes | ✅ |
-| Push Swa | C, Processes | ✅ |
+| Push Swap | C | ✅ |
 
 </div>
 
