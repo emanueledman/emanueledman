@@ -120,7 +120,8 @@ class PerfilProfissional:
 | ft_printf | C | ✅ |
 | Born2beroot | Shell, Virtual Machine | ✅ |
 | so_long | C, Computer Graphics | 🔄 |
-| pipex | C, Processes | 🔄 |
+| pipex | C, Processes | ✅ |
+| Push Swa | C, Processes | ✅ |
 
 </div>
 
