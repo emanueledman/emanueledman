@@ -122,7 +122,7 @@ class PerfilProfissional:
 | pipex | C, Processes | ✅ |
 | Push Swap | C | ✅ |
 | Minishell | C, Computer Graphics | 🔄 |
-| Pilhosopher | C, Computer Graphics | 🔄 |
+| Philosophers | C, Computer Graphics | 🔄 |
 
 </div>
 
