@@ -59,7 +59,6 @@ class PerfilProfissional:
 
 - 📚 Cursando 4º ano de Engenharia Informática
 - 💻 Aprofundando conhecimentos em C/C++ na 42 Luanda
-- 🔒 Estudando Cibersegurança e Práticas Seguras
 - 🐧 Especialização em Ambiente Linux e Shell Script
 - 🎓 Desenvolvimento de Projetos Práticos
 
@@ -119,9 +118,11 @@ class PerfilProfissional:
 | get_next_line | C | ✅ |
 | ft_printf | C | ✅ |
 | Born2beroot | Shell, Virtual Machine | ✅ |
-| so_long | C, Computer Graphics | 🔄 |
+| so_long | C, Computer Graphics | ✅ |
 | pipex | C, Processes | ✅ |
 | Push Swap | C | ✅ |
+| Minishell | C, Computer Graphics | 🔄 |
+| Pilhosopher | C, Computer Graphics | 🔄 |
 
 </div>
 
